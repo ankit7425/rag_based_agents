@@ -1,0 +1,29 @@
+INDIAN PREMIER LEAGUE (IPL) - OVERVIEW
+
+Introduction The Indian Premier League (IPL) is a professional Twenty20
+(T20) cricket league organized by the Board of Control for Cricket in
+India (BCCI). It began in 2008 and is one of the most popular and
+valuable cricket leagues in the world.
+
+Key Facts - Organizer: BCCI - Format: Twenty20 (T20) - Started: 2008 -
+Usually held from March to May - Franchise-based tournament with teams
+representing Indian cities
+
+Current Teams - Chennai Super Kings (CSK) - Mumbai Indians (MI) - Royal
+Challengers Bengaluru (RCB) - Kolkata Knight Riders (KKR) - Delhi
+Capitals (DC) - Rajasthan Royals (RR) - Sunrisers Hyderabad (SRH) -
+Punjab Kings (PBKS) - Lucknow Super Giants (LSG) - Gujarat Titans (GT)
+
+Tournament Format 1. League Stage 2. Qualifier 1 3. Eliminator 4.
+Qualifier 2 5. Final
+
+Why IPL is Popular - High-quality cricket - International and Indian
+star players - Massive fan following - Advanced statistics and
+analytics - Entertainment and broadcasting
+
+Power BI Dashboard Ideas - Team Performance Analysis - Player
+Statistics - Match Results - Venue Analysis - Run Rate Trends - Ticket
+Sales and Revenue - Audience Attendance - Orange Cap and Purple Cap
+Analysis - Toss Impact Analysis - Win Percentage by Team
+
+End of Document
