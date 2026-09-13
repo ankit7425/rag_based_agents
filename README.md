@@ -1,4 +1,4 @@
-# rag_wikipedia_retriever
+# rag_based_agents
 An AI-powered RAG agent that retrieves relevant Wikipedia information and uses an LLM to generate accurate, context-aware answers using retrieved knowledge.
 RAG Wikipedia Retriever Agent is an AI-powered question-answering system that uses Retrieval-Augmented Generation (RAG) to retrieve relevant information from Wikipedia and generate accurate, context-aware answers. The agent combines document retrieval with a language model to reduce hallucinations and provide responses grounded in retrieved sources.
 
